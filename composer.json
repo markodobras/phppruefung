@@ -1,0 +1,16 @@
+{
+    "name": "dobrasmarko/webtpruefung",
+    "description": "Pruefungsbsp",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "dobras",
+            "email": "marko.dobras@hotmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+        }
+    }
+}
